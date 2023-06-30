@@ -9,7 +9,6 @@ const ObjectId = Schema.ObjectId;
  * User Schema
  * @description User model
  */
-
 const schema = new Schema({
 
     name: {
