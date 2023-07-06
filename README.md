@@ -1,7 +1,7 @@
 
 
 
-## Node Express REST api boilerplate
+## ✨ Node Express REST api boilerplate
 
 - src
   - config
